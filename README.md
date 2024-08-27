@@ -17,7 +17,9 @@ The primary objective of this project is to develop a dashboard that:
 Tools Used:
 
 Excel: The preferred platform for data organization, analysis, and dashboard creation.
+
 Power Query: Used for data transformation and cleaning.
+
 Visual Basic for Applications (VBA): Utilized for automation within Excel.
 
 Dashboard Features:
